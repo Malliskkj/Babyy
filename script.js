@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
     frontFace.style.justifyContent = 'center';
     frontFace.style.fontSize = '12px';
     frontFace.style.textTransform = 'uppercase';
-    frontFace.style.fontFamily = 'Arial, sans-serif';
+    frontFace.style.fontFamily = 'Moderniz';
 
     // Evento de clique no cubo principal
     mainCube.addEventListener('click', () => {
